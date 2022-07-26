@@ -1,6 +1,5 @@
 # Data Science projects
 <a href="https://github.com/denisliv"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=denisliv&color=ff3300" alt="Last Commit"/></a> 
-<img src="https://badges.pufler.dev/created/denisliv/DS_projects" alt="Created"/>
 <a href="https://github.com/denisliv/DS_projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/denisliv/DS_projects.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>
 <img src="https://img.shields.io/github/repo-size/denisliv/DS_projects.svg?colorB=CC66FF&style=flat" alt="Size"/>
 
